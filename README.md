@@ -65,6 +65,8 @@ Classroom Playlist
 |My Walking Stick|Leon Redbone||
 |Analog Hero|Mark Erelliu||
 |Man of Constant Sorrow|Geoff Castellucci||
+|Here We Go Again|Ray Charles (feat. Norah Jones)||
+|The Pickup Truck Song|Jerry Jeff Walker||
 
 
 
