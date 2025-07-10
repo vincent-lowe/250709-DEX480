@@ -69,7 +69,8 @@ Classroom Playlist
 |The Pickup Truck Song|Jerry Jeff Walker||
 |Smooth Criminal|Luca Stricagnoli|Instrumental cover|
 |It Ain't Over Yet|Rodney Crowell||
-
+|Final Countdown|Europe||
+|Crazy He Calls Me|Billie Holiday||
 
 
 
