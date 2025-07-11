@@ -44,10 +44,6 @@ Anypoint Fundamentals Self Paced: https://trailhead.salesforce.com/users/strailh
 
 MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 
-Einstein for Anypoint Code Builder: https://videos.mulesoft.com/watch/Z3Xzk8RFds5erbzLASev1W
-
-Log Analyzer: https://help.salesforce.com/s/articleView?language=en_US&id=Support-Log-file-analyzer-tool&type=1
-
 ------------------------------------------------------------------------------
 
 DataWeave resource page: https://github.com/vincent-lowe/dataweave-learning
